@@ -1,0 +1,10 @@
+{
+  "appName": {
+    "message": "chrome extension d3build",
+    "description": "The name of the application"
+  },
+  "appDescription": {
+    "message": "Take builds from d3fans and turn it into json",
+    "description": "The description of the application"
+  }
+}
